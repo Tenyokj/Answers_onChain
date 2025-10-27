@@ -1,7 +1,6 @@
 # 🧩 Answers & Pool — Decentralized Paid Q&A System
 
 > **Author:** [Tenyokj](https://github.com/Tenyokj)  
-> **License:** MIT  
 > **Solidity Version:** 0.8.20  
 
 ---
